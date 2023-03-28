@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cps": "javascript",
+        "math.h": "c",
+        "stdio.h": "c",
+        "cmath": "c"
+    }
+}
